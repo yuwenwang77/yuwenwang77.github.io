@@ -19,12 +19,12 @@ redirect_from:
 
 Welcome to my academic profile! I am Yuwen Wang, a PhD Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and pioneer fabrication technologies for organ-on-a-chip platforms.
 
-I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=kYMYxr4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kYMYxr4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. I have published several papers at the top journals with total <a href='https://scholar.google.com/citations?user=kYMYxr4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kYMYxr4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.05*: &nbsp;🎉🎉 Our team (Yuwen Wang, Zhilong Zhou, Runxuan Cai, Jun Liu, and Songlin He) won 2nd Prize in the 11th Hong Kong University Student Innovation & Entrepreneurship Competition. 
+- *2025.05*: &nbsp;🎉🎉 I won the Champion award at the CUHK Three Minute Thesis Competition. \| [\[video\]](https://youtu.be/N7zOqD0dh-g) 
 
 # 📝 Publications 
 

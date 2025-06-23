@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yuwen Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Ph.D. at The Chinese University of Hong Kong, B.Sc.@SDU | M.Res.@ICL"
+repository               : "yuwenwang77/yuwenwang77.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuwen Wang"
   avatar           : "images/yw.jpeg"
-  bio              : "Lorem ipsum College"
+  bio              : "There are more solutions than problems."
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kYMYxr4AAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "yuwen.wang@link.cuhk.edu.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
