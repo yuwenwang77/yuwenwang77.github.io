@@ -28,19 +28,17 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Bio</div><img src='images/Picture1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials Today Bio 2025</div><img src='images/Picture1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multiscale metal-based nanocomposites for bone and joint disease therapies](https://www.sciencedirect.com/science/article/pii/S2590006425003333)
 
-**Yuwen Wang**, Hasnain Jan, Zheng Zhong, Liangbin Zhou, Kexin Teng, Ye Chen, Jiankun Xu, Denghui Xie, Dexin Chen, Jiake Xu, Ling Qin, Rocky S Tuan, Zhong Alan Li
+**Yuwen Wang**, Hasnain Jan, Zheng Zhong, Liangbin Zhou, Kexin Teng, Ye Chen, Jiankun Xu, Denghui Xie, Dexin Chen, Jiake Xu, Ling Qin, Rocky S Tuan, Zhong Alan L
 
 [**Project**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=kYMYxr4AAAAJ&citation_for_view=kYMYxr4AAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The review emphasizes the enhanced load-bearing capacity, bioactivity, and tissue integration that can be achieved through hierarchical designs. Notwithstanding the potential of these applications, significant barriers to progress persist, including challenges related to long-term biocompatibility, regulatory hurdles, and scalable manufacturing. Finally, we propose future directions, including machine learning-guided design and patient-specific biomanufacturing to accelerate clinical translation. Multiscale metal-based nanocomposites, which bridge nanoscale innovations with macroscale functionality, are a revolutionary force in the field of biomedical engineering, providing personalized regenerative solutions for bone and joint diseases. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - Second prize, The 11th Hong Kong University Student Innovation and Entrepreneurship Competition, 2025
@@ -55,11 +53,10 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - 2023.08 - now, <a href="https://www.cuhk.edu.hk/chinese/index.html"><img class="svg" src="/images/Emblem_of_CU.png" width="23pt"></a> Doctor of Philosophy in Biomedical Engineering, The Chinese University of Hong Kong, China.
 - 2020.10 - 2021.11, <a href="https://www.imperial.ac.uk/"><img class="svg" src="/images/icl.png" width="23pt"></a> Master of Research in Nanomaterials, Imperial College London, UK.
 - 2016.09 - 2020.06, <a href="https://www.en.sdu.edu.cn/"><img class="svg" src="/images/Shandong-University-150x150.png" width="23pt"></a> Bachelor of Science in Applied Chemistry, Shandong University, China.
-, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Talks
+- 2024.09, [The 8th China-Europe Symposium on Biomaterials in Regenerative Medicine](https://www.cesb2024.org/), *Dipeptide Encoded Chiral Gold Nanoparticle for Enantiomer-Dependent Osteogenesis*. 
 
-# 💻 Internships
-- 2020.11 - 2022.02, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), China.
+# 💻 Work experience and Internships
+- 2022.06 - 2023.06, <a href="https://nus.edu.sg/"><img class="svg" src="/images/NUS" width="23pt"></a> Postgraduate Researcher, National University of Singapore, Singapore.
+- 2020.11 - 2022.02, <a href="https://en.sjtu.edu.cn/"><img class="svg" src="/images/shanghai-jiaotong-university55569.logowik.com.webp" width="23pt"></a> Research Intern, Shanghai Jiao Tong University, China.
