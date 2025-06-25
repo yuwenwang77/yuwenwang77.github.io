@@ -23,8 +23,13 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Our team (Yuwen Wang, Zhilong Zhou, Runxuan Cai, Jun Liu, and Songlin He) won 2nd Prize in the 11th Hong Kong University Student Innovation & Entrepreneurship Competition. 
+- *2025.05*: &nbsp;🎉🎉 Our team (Yuwen Wang, Zhilong Zhou, Runxuan Cai, Jun Liu, and Songlin He) won 2nd Prize in the 11th Hong Kong University Student Innovation and Entrepreneurship Competition. \| [\[Link\]](https://www.hkchallengeplus.com/en/)  
 - *2025.05*: &nbsp;🎉🎉 I won the Champion award at the CUHK Three Minute Thesis Competition. \| [\[Link\]](https://www.lib.cuhk.edu.hk/en/research/3mt/) 
+- *2025.05*: &nbsp;🎉🎉 I won the Best poster award at Westlake Conference on Advanced Regenerative Engineering.
+- *2025.01*: &nbsp;🎉🎉 A paper entitled "Chiral engineered biomaterials: new frontiers in cellular fate regulation for regenerative medicine".
+- *2024.09*: &nbsp;🎉🎉 I won the Best student oral presentation award at 8th China-Europe Symposium on Biomaterials in Regenerative Medicine.
+- *2024.03*: &nbsp;🎉🎉 A paper entitled "Musculoskeletal Organs-on-chips: An Emerging Platform for Studying the Nanotechnology-Biology Interface" has been published by Advanced Materials.
+- *2023.05*: &nbsp;🎉🎉 A paper entitled "Advances in enantiomer-dependent nanotherapeutics" has been published by ACS Nano.
 
 # 📝 Selected Publications 
 
@@ -59,4 +64,5 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 # 💻 Work experience and Internships
 - 2022.06 - 2023.06, <a href="https://nus.edu.sg/"><img class="svg" src="/images/NUS.png" width="23pt"></a> Postgraduate Researcher, National University of Singapore, Singapore.
-- 2020.11 - 2022.02, <a href="https://en.sjtu.edu.cn/"><img class="svg" src="/images/shanghai-jiaotong-university55569.logowik.com.webp" width="23pt"></a> Research Intern, Shanghai Jiao Tong University, China.
+- 2020.11 - 2022.02, <a href="https://en.sjtu.edu.cn/"><img class="svg" src="/images/shanghai.png" width="23pt"></a> Research Intern, Shanghai Jiao Tong University, China.
+- 2019.01 - 2019.03, <a href="https://aiesec.org/"><img class="svg" src="/images/AIESEC.png" width="23pt"></a> Global Volunteer, Sustainable Development Goal Quality Education, Italy.
