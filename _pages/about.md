@@ -25,11 +25,11 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our team (Yuwen Wang, Zhilong Zhou, Runxuan Cai, Jun Liu, and Songlin He) won 2nd Prize in the 11th Hong Kong University Student Innovation and Entrepreneurship Competition. \| [\[Link\]](https://www.hkchallengeplus.com/en/)  
 - *2025.05*: &nbsp;🎉🎉 I won the Champion award at the CUHK Three Minute Thesis Competition. \| [\[Link\]](https://www.lib.cuhk.edu.hk/en/research/3mt/) 
-- *2025.05*: &nbsp;🎉🎉 I won the Best poster award at Westlake Conference on Advanced Regenerative Engineering.
-- *2024.09*: &nbsp;🎉🎉 I won the Best student oral presentation award at 8th China-Europe Symposium on Biomaterials in Regenerative Medicine.
+- *2025.05*: &nbsp;🎉🎉 I won the Best poster award at Westlake Conference on Advanced Regenerative Engineering in Hangzhou, China.
+- *2024.09*: &nbsp;🎉🎉 I won the Best student oral presentation award at 8th China-Europe Symposium on Biomaterials in Regenerative Medicine in Nuremberg, Germany.
 - *2024.03*: &nbsp;🎉🎉 A paper entitled "Musculoskeletal Organs-on-chips: An Emerging Platform for Studying the Nanotechnology-Biology Interface" has been published by Advanced Materials.
 - *2023.05*: &nbsp;🎉🎉 A paper entitled "Advances in enantiomer-dependent nanotherapeutics" has been published by ACS Nano.
-- *2022.05*: &nbsp;🎉🎉 A paper entitled "Analysis of nanomedicine efficacy for osteoarthritis" has been published by Advanced NanoBiomed Research.
+- *2022.12*: &nbsp;🎉🎉 A paper entitled "Analysis of nanomedicine efficacy for osteoarthritis" has been published by Advanced NanoBiomed Research.
 - *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res degree from Imperial College London.
 
 # 📝 Selected Publications 
