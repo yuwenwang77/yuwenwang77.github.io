@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic profile! I am Yuwen Wang, a PhD Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and pioneer fabrication technologies for organ-on-a-chip platforms.
+Welcome to my page! I am Yuwen Wang, a PhD Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish organ-on-a-chip platforms for disease modeling.
 
-I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. I have published several papers at the top journals with total <a href='https://scholar.google.com/citations?user=kYMYxr4AAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=kYMYxr4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Our team (Yuwen Wang, Zhilong Zhou, Runxuan Cai, Jun Liu, and Songlin He) won 2nd Prize in the 11th Hong Kong University Student Innovation and Entrepreneurship Competition. \| [\[Link\]](https://www.hkchallengeplus.com/en/)  
 - *2025.05*: &nbsp;🎉🎉 I won the Champion award at the CUHK Three Minute Thesis Competition. \| [\[Link\]](https://www.lib.cuhk.edu.hk/en/research/3mt/) 
 - *2025.05*: &nbsp;🎉🎉 I won the Best poster award at Westlake Conference on Advanced Regenerative Engineering.
-- *2025.01*: &nbsp;🎉🎉 A paper entitled "Chiral engineered biomaterials: new frontiers in cellular fate regulation for regenerative medicine".
 - *2024.09*: &nbsp;🎉🎉 I won the Best student oral presentation award at 8th China-Europe Symposium on Biomaterials in Regenerative Medicine.
 - *2024.03*: &nbsp;🎉🎉 A paper entitled "Musculoskeletal Organs-on-chips: An Emerging Platform for Studying the Nanotechnology-Biology Interface" has been published by Advanced Materials.
 - *2023.05*: &nbsp;🎉🎉 A paper entitled "Advances in enantiomer-dependent nanotherapeutics" has been published by ACS Nano.
+- *2022.05*: &nbsp;🎉🎉 A paper entitled "Analysis of nanomedicine efficacy for osteoarthritis" has been published by Advanced NanoBiomed Research.
+- *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res from Imperial College London.
 
 # 📝 Selected Publications 
 
@@ -40,8 +41,18 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 **Yuwen Wang**, Xin Zhang, Denghui Xie, Chunying Chen, Zhifeng Huang, Zhong Alan Li
 
-[**|Citations**](https://scholar.google.com.sg/citations?view_op=view_citation&hl=en&user=kYMYxr4AAAAJ&citation_for_view=kYMYxr4AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='kYMYxr4AAAAJ:UeHWp8X0CEIC'></span></strong>
 - In this review, we first summarize the chiral nano-/microstructures that can be used for regenerative medicine applications, including chiral nanomaterials, chiral supramolecular hydrogels, and chiral topography. Computational and simulation methods that can be used to study chiral structures are systematically summarized. In addition, the mechanisms by which chiral engineered biomaterials affect cellular responses will be comprehensively reviewed in terms of cell adhesion receptors, intracellular signaling pathways, and regulation of gene expression profiles. Specific examples will be used to illustrate the ability of chiral biomaterials to direct cell fate decisions, such as inducing stem cell differentiation along specific lineages or regulating macrophages to different phenotypes. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2024</div><img src='images/Picture2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Musculoskeletal Organs‐on‐Chips: An Emerging Platform for Studying the Nanotechnology–Biology Interface](https://doi.org/10.1002/adma.202401334)
+
+**Yuwen Wang**, Patrick Yung, Gang Lu, Yuwei Liu, Changhai Ding, Chuanbin Mao, Zhong Alan Li, Rocky S Tuan
+
+- This review examines recent advances in musculoskeletal organ-on-a-chip (MSK OoC) platforms, focusing on their capacity to replicate biophysical/biochemical cues in MSK tissues. We discuss how nanotechnology integration enables precise manipulation of the nanoscale environment to study cellular responses and tissue behaviors. MSK OoCs facilitate analysis of disease mechanisms (e.g., bone/joint/muscle degeneration) and personalized drug screening. Future challenges include developing advanced sensing, immune-component integration, and enhanced biomimetic functionality. Ultimately, we highlight how MSK OoCs advance understanding of the nanotech-MSK biology interface to innovate personalized therapeutic strategies. 
 </div>
 </div>
 
