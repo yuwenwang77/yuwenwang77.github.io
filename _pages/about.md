@@ -74,5 +74,5 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 # 💻 Work experience and Internships
 - 2022.06 - 2023.06, <a href="https://nus.edu.sg/"><img class="svg" src="/images/NUS.png" width="23pt"></a> Postgraduate Researcher, National University of Singapore, Singapore.
-- 2020.11 - 2022.02, <a href="https://en.sjtu.edu.cn/"><img class="svg" src="/images/shanghai.png" width="23pt"></a> Research Intern, Shanghai Jiao Tong University, China.
+- 2021.11 - 2022.02, <a href="https://en.sjtu.edu.cn/"><img class="svg" src="/images/shanghai.png" width="23pt"></a> Research Intern, Shanghai Jiao Tong University, China.
 - 2019.01 - 2019.03, <a href="https://aiesec.org/"><img class="svg" src="/images/AIESEC.png" width="23pt"></a> Global Volunteer, Sustainable Development Goal Quality Education, Italy.
