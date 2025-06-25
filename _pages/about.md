@@ -33,7 +33,6 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res from Imperial College London.
 
 # 📝 Selected Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Functional Materials 2025</div><img src='images/Picture1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

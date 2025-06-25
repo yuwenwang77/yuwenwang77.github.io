@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Selected Publications"
-    url: "/#Selected-publications"
+    url: "/#selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -19,4 +19,4 @@ main:
     url: "/#-talks"
 
   - title: "Work Experience and Internships"
-    url: "/#-Work-experience-and-internships"
+    url: "/#-work-experience-and-internships"
