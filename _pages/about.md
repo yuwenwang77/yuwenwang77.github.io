@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my page! I am Yuwen Wang, a PhD Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish organ-on-a-chip platforms for disease modeling.
+Welcome to my page! I am Yuwen Wang, a Ph.D. Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish organ-on-a-chip platforms for disease modeling.
 
 I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced organ-on-a-chip platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
 
@@ -30,7 +30,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - *2024.03*: &nbsp;🎉🎉 A paper entitled "Musculoskeletal Organs-on-chips: An Emerging Platform for Studying the Nanotechnology-Biology Interface" has been published by Advanced Materials.
 - *2023.05*: &nbsp;🎉🎉 A paper entitled "Advances in enantiomer-dependent nanotherapeutics" has been published by ACS Nano.
 - *2022.05*: &nbsp;🎉🎉 A paper entitled "Analysis of nanomedicine efficacy for osteoarthritis" has been published by Advanced NanoBiomed Research.
-- *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res from Imperial College London.
+- *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res degree from Imperial College London.
 
 # 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Functional Materials 2025</div><img src='images/Picture1.png' alt="sym" width="100%"></div></div>
