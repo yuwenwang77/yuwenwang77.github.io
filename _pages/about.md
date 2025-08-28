@@ -56,6 +56,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 
 # 🎖 Honors and Awards
+- Webster Jee Young Investigator Award, ICMRS Fall Membership Meeting, 2025
 - Best oral presentation award, 2nd GBA Orthopaedics Postgraduate Academic Forum, 2025
 - Second prize, The 11th Hong Kong University Student Innovation and Entrepreneurship Competition, 2025
 - Best poster award, 2025 Westlake Conference on Advanced Regenerative Engineering, 2025
