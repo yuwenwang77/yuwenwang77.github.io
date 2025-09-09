@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuwen Wang"
+title                    : "Yuwen Wang (王禹文)"
 description              : "Ph.D. Candidate at The Chinese University of Hong Kong, B.Sc.@SDU | M.Res.@ICL"
 repository               : "yuwenwang77/yuwenwang77.github.io"
 google_scholar_stats_use_cdn : true
