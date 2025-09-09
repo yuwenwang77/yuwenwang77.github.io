@@ -23,6 +23,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🏆 I won the Webster Jee Young Investigator Award at 2025 International Chinese Musculoskeletal Research Society (ICMRS) membership meeting. \| [\[Link\]](https://icmrs.net/Awards) 
 - *2025.05*: &nbsp;🎉🎉 Our team (Yuwen Wang, Zhilong Zhou, Runxuan Cai, Jun Liu, and Songlin He) won 2nd Prize in the 11th Hong Kong University Student Innovation and Entrepreneurship Competition. \| [\[Link\]](https://www.hkchallengeplus.com/en/)  
 - *2025.05*: &nbsp;🎉🎉 I won the Champion award at the CUHK Three Minute Thesis Competition. \| [\[Link\]](https://www.lib.cuhk.edu.hk/en/research/3mt/) 
 - *2025.05*: &nbsp;🎉🎉 I won the Best poster award at Westlake Conference on Advanced Regenerative Engineering in Hangzhou, China.
