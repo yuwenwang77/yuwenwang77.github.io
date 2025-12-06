@@ -57,6 +57,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 
 # 🎖 Honors and Awards
+- Silver Award, TERMIS-AP Virtual Student Paper Contest, 2025
 - The Third prize, Greater Bay Area Graduate Research Forum, 2025
 - Webster Jee Young Investigator Award, ICMRS Fall Membership Meeting, 2025
 - Best oral presentation award, 2nd GBA Orthopaedics Postgraduate Academic Forum, 2025
