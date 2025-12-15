@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my page! I am Yuwen Wang (王禹文), a Ph.D. Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish organ-on-a-chip platforms for disease modeling.
+Welcome to my page! I am Yuwen Wang (王禹文), a Ph.D. Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish microphysiological system platforms for disease modeling.
 
-I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced organ-on-a-chip platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
+I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced microphysiological system platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
 
 
 # 🔥 News
@@ -28,7 +28,6 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - *2025.05*: &nbsp;🏆 I won the Champion award at the CUHK Three Minute Thesis Competition. \| [\[Link\]](https://www.lib.cuhk.edu.hk/en/research/3mt/) 
 - *2025.05*: &nbsp;🏆 I won the Best poster award at Westlake Conference on Advanced Regenerative Engineering in Hangzhou, China.
 - *2024.09*: &nbsp;🏆 I won the Best student oral presentation award at 8th China-Europe Symposium on Biomaterials in Regenerative Medicine in Nuremberg, Germany.
-- *2024.03*: &nbsp;🎉🎉 A paper entitled "Musculoskeletal Organs-on-chips: An Emerging Platform for Studying the Nanotechnology-Biology Interface" has been published by Advanced Materials.
 - *2023.05*: &nbsp;🎉🎉 A paper entitled "Advances in enantiomer-dependent nanotherapeutics" has been published by ACS Nano.
 - *2022.12*: &nbsp;🎉🎉 A paper entitled "Analysis of nanomedicine efficacy for osteoarthritis" has been published by Advanced NanoBiomed Research.
 - *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res degree from Imperial College London.
