@@ -56,17 +56,18 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 
 # 🎖 Honors and Awards
+- Best Poster Presentation Award, Translational Biomaterials Nature Conference, 2026
 - Silver Award, TERMIS-AP Virtual Student Paper Contest, 2025
-- The Third prize, Greater Bay Area Graduate Research Forum, 2025
+- The Third Prize, Greater Bay Area Graduate Research Forum, 2025
 - Webster Jee Young Investigator Award, ICMRS Fall Membership Meeting, 2025
-- Best oral presentation award, 2nd GBA Orthopaedics Postgraduate Academic Forum, 2025
-- The Second prize, The 11th Hong Kong University Student Innovation and Entrepreneurship Competition, 2025
-- Best poster award, 2025 Westlake Conference on Advanced Regenerative Engineering, 2025
+- Best Oral Presentation Award, 2nd GBA Orthopaedics Postgraduate Academic Forum, 2025
+- The Second Prize, The 11th Hong Kong University Student Innovation and Entrepreneurship Competition, 2025
+- Best Poster Award, 2025 Westlake Conference on Advanced Regenerative Engineering, 2025
 - Champion, CUHK 3 Minutes Presentation Competition, 2025
 - Champion, CUHK BME 3 Minutes Presentation Competition, 2025
-- Best student oral presentation award, 8th China-Europe Symposium on Biomaterials in Regenerative Medicine, 2024
-- Outstanding graduate, Shandong University, 2020
-- Excellent student scholarship, Shandong university, 2019
+- Best Student Oral Presentation Award, 8th China-Europe Symposium on Biomaterials in Regenerative Medicine, 2024
+- Outstanding Graduate, Shandong University, 2020
+- Excellent Student Scholarship, Shandong university, 2019
 
 # 📖 Educations
 - 2023.08 - now, <a href="https://www.cuhk.edu.hk/chinese/index.html"><img class="svg" src="/images/Emblem_of_CU.png" width="23pt"></a> Doctor of Philosophy in Biomedical Engineering, The Chinese University of Hong Kong, China.
