@@ -33,14 +33,14 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res degree from Imperial College London.
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2026</div><img src='images/Figure-nanoyzme 1.tiff' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2026</div><img src='images/Figure-nanoyzme 1 2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bioinspired, Mitochondria-Targeted Single-Atom Nanozyme Enhances Bone Regeneration by Reprogramming Stem Cell Energy Metabolism​](https://doi.org/10.1002/adma.202522108)
 
 **Yuwen Wang**, Xinzhi Liang, Tiandi Xiong, Zheng Zhong, Ning Zhang, Boguang Yang, Dong Li, Qiongjiao Zeng, Xian Chen, Yiting Lei, Shangsi Chen, Chao Zheng, Liu Yang, Wei Huang, Rocky S. Tuan, Denghui Xie, Zhong Alan Li
 
-- Normal mitochondrial function in stem cells is essential for effective bone regeneration, with mitochondrial complex IV (cytochrome c oxidase, CcO) playing a crucial role in sustaining electron transport chain activity and ATP synthesis. To address mitochondrial dysfunction associated with bone defects, we developed a dendritic mesoporous silica nanoparticle (DMSN)-based, CcO-mimetic nanozyme, named triphenylphosphonium (TPP)-DMSN-Fe/Cu. The nanozyme incorporated iron and copper single atoms to mimic the catalytic center of CcO and is modified with the mitochondria-targeting agent TPP. In vitro, TPP-DMSN-Fe/Cu nanozymes colocalized with mitochondria and enhanced mitochondrial function, effectively regulating cellular energy metabolism and promoting stem cell osteogenesis. In vivo, TPP-DMSN-Fe/Cu nanozymes resulted in significantly enhanced bone regeneration compared to the control, resulting in a 177% increase in bone volume and a 12% increase in mineral density at critical-sized bone defects in rats after 4 weeks of treatment. Taken together, these findings demonstrate that bioinspired, mitochondria-targeting TPP-DMSN-Fe/Cu nanozymes hold strong promise for accelerating bone regeneration via regulating cellular energy metabolism.
+- Normal mitochondrial function is vital for stem cell–driven bone regeneration, with complex IV (cytochrome c oxidase, CcO) central to this process. We developed a mitochondria-targeted, CcO-mimetic nanozyme (TPP-DMSN-Fe/Cu) that mimics the catalytic center of CcO using Fe and Cu single atoms and targets mitochondria with TPP. In vitro, the nanozyme boosted mitochondrial function and stem cell osteogenesis. In vivo, it promoted bone regeneration, increasing bone volume by 177% and mineral density by 12% in rat models after 4 weeks. These results highlight the potential of TPP-DMSN-Fe/Cu nanozymes to accelerate bone repair by modulating cellular energy metabolism.
 </div>
 </div>
 
