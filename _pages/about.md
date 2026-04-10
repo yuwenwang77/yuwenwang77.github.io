@@ -86,6 +86,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - 2016.09 - 2020.06, <a href="https://www.en.sdu.edu.cn/"><img class="svg" src="/images/shandong.jpg" width="23pt"></a> Bachelor of Science in Applied Chemistry, Shandong University, China.
 
 # 💬 Talks
+- 2026.03, [2026 SFB Annual Meeting](https://meetings.biomaterials.org/), *Chiral Nanoparticles Drive Enantiomer-specific Osteogenesis and Accelerate Stem Cell-based Bone Regeneration​*. 
 - 2025.10, [2025 TERMIS-AP Conference](https://ap2025.termis.org/), *Mitochondria-targeted, Single-atom Nanozymes Accelerate Bone Regeneration by Augmenting Stem Cell Energy Metabolism​*. 
 - 2024.09, [The 8th China-Europe Symposium on Biomaterials in Regenerative Medicine](https://www.cesb2024.org/), *Dipeptide Encoded Chiral Gold Nanoparticle for Enantiomer-Dependent Osteogenesis*. 
 
