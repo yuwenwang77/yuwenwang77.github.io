@@ -33,6 +33,17 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res degree from Imperial College London.
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2026</div><img src='images/Figure-nanoyzme 1.tiff' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bioinspired, Mitochondria-Targeted Single-Atom Nanozyme Enhances Bone Regeneration by Reprogramming Stem Cell Energy Metabolism​](https://doi.org/10.1002/adma.202522108)
+
+**Yuwen Wang**, Xinzhi Liang, Tiandi Xiong, Zheng Zhong, Ning Zhang, Boguang Yang, Dong Li, Qiongjiao Zeng, Xian Chen, Yiting Lei, Shangsi Chen, Chao Zheng, Liu Yang, Wei Huang, Rocky S. Tuan, Denghui Xie, Zhong Alan Li
+
+- Normal mitochondrial function in stem cells is essential for effective bone regeneration, with mitochondrial complex IV (cytochrome c oxidase, CcO) playing a crucial role in sustaining electron transport chain activity and ATP synthesis. To address mitochondrial dysfunction associated with bone defects, we developed a dendritic mesoporous silica nanoparticle (DMSN)-based, CcO-mimetic nanozyme, named triphenylphosphonium (TPP)-DMSN-Fe/Cu. The nanozyme incorporated iron and copper single atoms to mimic the catalytic center of CcO and is modified with the mitochondria-targeting agent TPP. In vitro, TPP-DMSN-Fe/Cu nanozymes colocalized with mitochondria and enhanced mitochondrial function, effectively regulating cellular energy metabolism and promoting stem cell osteogenesis. In vivo, TPP-DMSN-Fe/Cu nanozymes resulted in significantly enhanced bone regeneration compared to the control, resulting in a 177% increase in bone volume and a 12% increase in mineral density at critical-sized bone defects in rats after 4 weeks of treatment. Taken together, these findings demonstrate that bioinspired, mitochondria-targeting TPP-DMSN-Fe/Cu nanozymes hold strong promise for accelerating bone regeneration via regulating cellular energy metabolism.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Functional Materials 2025</div><img src='images/Picture1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
