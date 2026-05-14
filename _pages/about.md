@@ -67,6 +67,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 
 # 🎖 Honors and Awards
+- Best Oral Presentation Award, 9th China-Europe Symposium on Biomaterials in Regenerative Medicine, 2026
 - Best Poster Presentation Award, Translational Biomaterials Nature Conference, 2026
 - Silver Award, TERMIS-AP Virtual Student Paper Contest, 2025
 - The Third Prize, Greater Bay Area Graduate Research Forum, 2025
