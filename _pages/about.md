@@ -66,6 +66,17 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Nano 2023</div><img src='images/Chiral acs nano.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Advances in Enantiomer-Dependent Nanotherapeutics](https://doi.org/10.1021/acsnano.3c02798)
+
+**Yuwen Wang**, Andy Tay
+
+- Nanoscale features like size, shape, and charge are key to nanomedicine, but chirality is gaining attention for its ability to enhance biomolecular interactions. While chiral nanomaterials are already important in biosensing and diagnostics, they show growing potential for therapeutic applications. This Review summarizes current understanding of stereospecific interactions, fabrication methods, and the use of chiral nanomaterials in fields such as cancer and immunomodulation. We highlight how chirality offers new strategies for advancing nanotherapeutics. 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - Best Oral Presentation Award, 9th China-Europe Symposium on Biomaterials in Regenerative Medicine, 2026
 - Best Poster Presentation Award, Translational Biomaterials Nature Conference, 2026
