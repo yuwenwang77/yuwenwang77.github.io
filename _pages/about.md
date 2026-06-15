@@ -36,6 +36,17 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - *2021.11*: &nbsp;🎉🎉 I graduated with a M.Res degree from Imperial College London.
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Advances 2026</div><img src='images/chiral nano.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Chiral nanoparticles drive enantiomer-specific osteogenic differentiation of stem cells and accelerate bone regeneration​](https://doi.org/10.1126/sciadv.aea3822)
+
+**Yuwen Wang†**, Zheng Zhong†, Zeqing Li†, Yuecong Guo, Christina Sin U, Tao Yao, Boguang Yang, Ning Zhang,  Songlin He, Zhilong Zhou, Jun Liu, Yiting Lei, Runxuan Cai, Yaling Wang, Chung Hang Jonathan Choi, Chuanbin Mao, Denghui Xie, Zhifeng Huang, Bo Liu*, Maobin Xie*, Denghui Xie*, Zhong Alan Li*
+
+- Chiral nanoparticles (NPs) offer enantiomer-dependent control over stem cell differentiation, which is critical for bone regeneration. We synthesized L-, D-, and A-CF-NPs with tunable nanoscale chirality. In vitro, L-CF-NPs exhibited the highest cellular uptake via clathrin-mediated, integrin-involved endocytosis, leading to superior upregulation of osteogenic and angiogenic markers through the MAPK/JNK/ERK pathway. In vivo, 3D-bioprinted scaffolds containing L-CF-NPs accelerated bone regeneration in a rat critical-size defect model. Thus, nanoscale chirality serves as a powerful design parameter for biomaterials in tissue engineering.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2026</div><img src='images/Figure-nanoyzme 1 2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
