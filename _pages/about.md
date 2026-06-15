@@ -41,7 +41,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 [Chiral nanoparticles drive enantiomer-specific osteogenic differentiation of stem cells and accelerate bone regeneration​](https://doi.org/10.1126/sciadv.aea3822)
 
-**Yuwen Wang<sup>†</sup>**, Zheng Zhong<sup>†</sup>, Zeqing Li<sup>†</sup>, Yuecong Guo, Christina Sin U, Tao Yao, Boguang Yang, Ning Zhang,  Songlin He, Zhilong Zhou, Jun Liu, Yiting Lei, Runxuan Cai, Yaling Wang, Chung Hang Jonathan Choi, Chuanbin Mao, Denghui Xie, Zhifeng Huang, Bo Liu*, Maobin Xie*, Denghui Xie*, Zhong Alan Li*
+**Yuwen Wang<sup>†</sup>**, Zheng Zhong<sup>†</sup>, Zeqing Li<sup>†</sup>, Yuecong Guo, Christina Sin U, Tao Yao, Boguang Yang, Ning Zhang,  Songlin He, Zhilong Zhou, Jun Liu, Yiting Lei, Runxuan Cai, Yaling Wang, Chung Hang Jonathan Choi, Chuanbin Mao, Denghui Xie, Zhifeng Huang, Bo Liu<sup>*</sup>, Maobin Xie<sup>*</sup>, Chunying Chen<sup>*</sup>, Zhong Alan Li<sup>*</sup>
 
 - Chiral nanoparticles (NPs) offer enantiomer-dependent control over stem cell differentiation, which is critical for bone regeneration. We synthesized L-, D-, and A-CF-NPs with tunable nanoscale chirality. In vitro, L-CF-NPs exhibited the highest cellular uptake via clathrin-mediated, integrin-involved endocytosis, leading to superior upregulation of osteogenic and angiogenic markers through the MAPK/JNK/ERK pathway. In vivo, 3D-bioprinted scaffolds containing L-CF-NPs accelerated bone regeneration in a rat critical-size defect model. Thus, nanoscale chirality serves as a powerful design parameter for biomaterials in tissue engineering.
 </div>
@@ -52,7 +52,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 [Bioinspired, Mitochondria-Targeted Single-Atom Nanozyme Enhances Bone Regeneration by Reprogramming Stem Cell Energy Metabolism​](https://doi.org/10.1002/adma.202522108)
 
-**Yuwen Wang**, Xinzhi Liang, Tiandi Xiong, Zheng Zhong, Ning Zhang, Boguang Yang, Dong Li, Qiongjiao Zeng, Xian Chen, Yiting Lei, Shangsi Chen, Chao Zheng, Liu Yang, Wei Huang, Rocky S. Tuan, Denghui Xie, Zhong Alan Li
+**Yuwen Wang<sup>†</sup>**, Xinzhi Liang<sup>†</sup>, Tiandi Xiong<sup>†</sup>, Zheng Zhong, Ning Zhang, Boguang Yang, Dong Li, Qiongjiao Zeng, Xian Chen, Yiting Lei, Shangsi Chen, Chao Zheng, Liu Yang, Wei Huang, Rocky S. Tuan<sup>*</sup>, Denghui Xie<sup>*</sup>, Zhong Alan Li<sup>*</sup>
 
 - Normal mitochondrial function is vital for stem cell–driven bone regeneration, with complex IV (cytochrome c oxidase, CcO) central to this process. We developed a mitochondria-targeted, CcO-mimetic nanozyme (TPP-DMSN-Fe/Cu) that mimics the catalytic center of CcO using Fe and Cu single atoms and targets mitochondria with TPP. In vitro, the nanozyme boosted mitochondrial function and stem cell osteogenesis. In vivo, it promoted bone regeneration, increasing bone volume by 177% and mineral density by 12% in rat models after 4 weeks. These results highlight the potential of TPP-DMSN-Fe/Cu nanozymes to accelerate bone repair by modulating cellular energy metabolism.
 </div>
@@ -63,7 +63,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 [Chiral engineered biomaterials: new frontiers in cellular fate regulation for regenerative medicine](https://doi.org/10.1002/adfm.202419610) (Top 10% of most-viewed papers)
 
-**Yuwen Wang**, Xin Zhang, Denghui Xie, Chunying Chen, Zhifeng Huang, Zhong Alan Li
+**Yuwen Wang**, Xin Zhang, Denghui Xie, Chunying Chen<sup>*</sup>, Zhifeng Huang<sup>*</sup>, Zhong Alan Li<sup>*</sup>
 
 - In this review, we first summarize the chiral nano-/microstructures that can be used for regenerative medicine applications, including chiral nanomaterials, chiral supramolecular hydrogels, and chiral topography. Computational and simulation methods that can be used to study chiral structures are systematically summarized. In addition, the mechanisms by which chiral engineered biomaterials affect cellular responses will be comprehensively reviewed in terms of cell adhesion receptors, intracellular signaling pathways, and regulation of gene expression profiles. Specific examples will be used to illustrate the ability of chiral biomaterials to direct cell fate decisions, such as inducing stem cell differentiation along specific lineages or regulating macrophages to different phenotypes. 
 </div>
@@ -74,7 +74,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 [Musculoskeletal Organs‐on‐Chips: An Emerging Platform for Studying the Nanotechnology–Biology Interface](https://doi.org/10.1002/adma.202401334) (Top 10% of most-viewed papers)
 
-**Yuwen Wang**, Patrick Yung, Gang Lu, Yuwei Liu, Changhai Ding, Chuanbin Mao, Zhong Alan Li, Rocky S Tuan
+**Yuwen Wang**, Patrick Yung, Gang Lu, Yuwei Liu, Changhai Ding, Chuanbin Mao<sup>*</sup>, Zhong Alan Li<sup>*</sup>, Rocky S Tuan<sup>*</sup>
 
 - This review examines recent advances in musculoskeletal organ-on-a-chip (MSK OoC) platforms, focusing on their capacity to replicate biophysical/biochemical cues in MSK tissues. We discuss how nanotechnology integration enables precise manipulation of the nanoscale environment to study cellular responses and tissue behaviors. MSK OoCs facilitate analysis of disease mechanisms (e.g., bone/joint/muscle degeneration) and personalized drug screening. Future challenges include developing advanced sensing, immune-component integration, and enhanced biomimetic functionality. Ultimately, we highlight how MSK OoCs advance understanding of the nanotech-MSK biology interface to innovate personalized therapeutic strategies. 
 </div>
@@ -85,7 +85,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 [Advances in Enantiomer-Dependent Nanotherapeutics](https://doi.org/10.1021/acsnano.3c02798)
 
-**Yuwen Wang**, Andy Tay
+**Yuwen Wang**, Andy Tay<sup>*</sup>
 
 - Nanoscale features like size, shape, and charge are key to nanomedicine, but chirality is gaining attention for its ability to enhance biomolecular interactions. While chiral nanomaterials are already important in biosensing and diagnostics, they show growing potential for therapeutic applications. This Review summarizes current understanding of stereospecific interactions, fabrication methods, and the use of chiral nanomaterials in fields such as cancer and immunomodulation. We highlight how chirality offers new strategies for advancing nanotherapeutics. 
 </div>
