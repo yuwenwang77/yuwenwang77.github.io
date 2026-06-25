@@ -92,6 +92,8 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 
 # 🎖 Honors and Awards
+- Talent Development Scholarship in Innovation, science and technology，The Chinese University of Hong Kong, 2026
+- The Second Prize, The 12th Hong Kong University Student Innovation and Entrepreneurship Competition, 2026
 - Best Oral Presentation Award, 9th China-Europe Symposium on Biomaterials in Regenerative Medicine, 2026
 - Best Poster Presentation Award, Translational Biomaterials Nature Conference, 2026
 - Silver Award, TERMIS-AP Virtual Student Paper Contest, 2025
