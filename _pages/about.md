@@ -23,7 +23,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🏆 Our team (Yuwen Wang and Chaoqun Wang) won 2nd Prize in the 11th Hong Kong University Student Innovation and Entrepreneurship Competition. \| [\[Link\]](https://www.hkchallengeplus.com/en/prize-list-and-review/) 
+- *2026.05*: &nbsp;🏆 Our team (Yuwen Wang and Chaoqun Wang) won 2nd Prize in the 12th Hong Kong University Student Innovation and Entrepreneurship Competition. \| [\[Link\]](https://www.hkchallengeplus.com/en/prize-list-and-review/) 
 - *2026.04*: &nbsp;🎉🎉 A paper entitled "Bioinspired, Mitochondria-Targeted Single-Atom Nanozyme Enhances Bone Regeneration by Reprogramming Stem Cell Energy Metabolism​" has been published by Advanced Materials.
 - *2026.03*: &nbsp;✈️ I attended the 2026 Annual Meeting of the Society for Biomaterials (SFB), held in Atlanta, Georgia, and the 2026 Annual Meeting of the Orthopaedic Research Society (ORS)  held in Charlotte, North Carolina.
 - *2025.09*: &nbsp;🏆 I won the Webster Jee Young Investigator Award at 2025 International Chinese Musculoskeletal Research Society (ICMRS) membership meeting. \| [\[Link\]](https://icmrs.net/Awards) 
@@ -92,7 +92,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 </div>
 
 # 🎖 Honors and Awards
-- Talent Development Scholarship in Innovation, science and technology，The Chinese University of Hong Kong, 2026
+- Talent Development Scholarship in Innovation, science and technology, The Chinese University of Hong Kong, 2026
 - The Second Prize, The 12th Hong Kong University Student Innovation and Entrepreneurship Competition, 2026
 - Best Oral Presentation Award, 9th China-Europe Symposium on Biomaterials in Regenerative Medicine, 2026
 - Best Poster Presentation Award, Translational Biomaterials Nature Conference, 2026
