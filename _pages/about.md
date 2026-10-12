@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my page! I am Yuwen Wang (王禹文), a Ph.D. Candidate in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish microphysiological system platforms for disease modeling.
+Welcome to my page! I am Yuwen Wang (王禹文), a Postdoctoral Fellow in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish microphysiological system platforms for disease modeling.
 
 I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced microphysiological system platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
 
@@ -110,7 +110,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - Excellent Student Scholarship, Shandong university, 2019
 
 # 📖 Educations
-- 2023.08 - now, <a href="https://www.cuhk.edu.hk/chinese/index.html"><img class="svg" src="/images/Emblem_of_CU.png" width="23pt"></a> Doctor of Philosophy in Biomedical Engineering, The Chinese University of Hong Kong, China.
+- 2023.08 - 2026.10, <a href="https://www.cuhk.edu.hk/chinese/index.html"><img class="svg" src="/images/Emblem_of_CU.png" width="23pt"></a> Doctor of Philosophy in Biomedical Engineering, The Chinese University of Hong Kong, China.
 - 2020.10 - 2021.11, <a href="https://www.imperial.ac.uk/"><img class="svg" src="/images/Imperial.png" width="23pt"></a> Master of Research in Nanomaterials, Imperial College London, UK.
 - 2016.09 - 2020.06, <a href="https://www.en.sdu.edu.cn/"><img class="svg" src="/images/shandong.jpg" width="23pt"></a> Bachelor of Science in Applied Chemistry, Shandong University, China.
 
