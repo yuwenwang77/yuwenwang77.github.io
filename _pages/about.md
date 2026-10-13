@@ -111,6 +111,7 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 
 # 📖 Educations
 - 2023.08 - 2026.10, <a href="https://www.cuhk.edu.hk/chinese/index.html"><img class="svg" src="/images/Emblem_of_CU.png" width="23pt"></a> Doctor of Philosophy in Biomedical Engineering, The Chinese University of Hong Kong, China.
+- 2022.06 - 2023.06, <a href="https://nus.edu.sg/"><img class="svg" src="/images/NUS.png" width="23pt"></a> Postgraduate Researcher (PhD student), National University of Singapore, Singapore.
 - 2020.10 - 2021.11, <a href="https://www.imperial.ac.uk/"><img class="svg" src="/images/Imperial.png" width="23pt"></a> Master of Research in Nanomaterials, Imperial College London, UK.
 - 2016.09 - 2020.06, <a href="https://www.en.sdu.edu.cn/"><img class="svg" src="/images/shandong.jpg" width="23pt"></a> Bachelor of Science in Applied Chemistry, Shandong University, China.
 
@@ -120,6 +121,6 @@ I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res
 - 2024.09, [The 8th China-Europe Symposium on Biomaterials in Regenerative Medicine](https://www.cesb2024.org/), *Dipeptide Encoded Chiral Gold Nanoparticle for Enantiomer-Dependent Osteogenesis*. Nuremberg, Germany. 
 
 # 💻 Work experience and Internships
-- 2022.06 - 2023.06, <a href="https://nus.edu.sg/"><img class="svg" src="/images/NUS.png" width="23pt"></a> Postgraduate Researcher, National University of Singapore, Singapore.
+- 2026.10 - now, <a href="https://www.cuhk.edu.hk/chinese/index.html"><img class="svg" src="/images/Emblem_of_CU.png" width="23pt"></a> Postdoctoral Fellow, The Chinese University of Hong Kong, China.
 - 2021.11 - 2022.02, <a href="https://en.sjtu.edu.cn/"><img class="svg" src="/images/shanghai.png" width="23pt"></a> Research Intern, Shanghai Jiao Tong University, China.
 - 2019.01 - 2019.03, <a href="https://aiesec.org/"><img class="svg" src="/images/AIESEC.png" width="23pt"></a> Global Volunteer, Sustainable Development Goal Quality Education, Italy.
