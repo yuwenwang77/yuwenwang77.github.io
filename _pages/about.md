@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my page! I am Yuwen Wang (王禹文), a Postdoctoral Fellow in the Department of Biomedical Engineering at The Chinese University of Hong Kong. My research focuses on nano-biomaterials and functional hydrogels for musculoskeletal disease treatment. Currently, I develop nature-inspired nanoparticles for bone regeneration and establish microphysiological system platforms for disease modeling.
 
-I hold a B.Sc. in Applied Chemistry from Shandong University (2020) and an M.Res. in Nanomaterials from Imperial College London (2021). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced microphysiological system platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
+I hold a B.Sc. in Applied Chemistry from Shandong University (2020), an M.Res. in Nanomaterials from Imperial College London (2021), and a Ph.D. in Biomedical Engineering from The Chinese University of Hong Kong (2026). My research interest includes: Smart nanoparticles, Functional hydrogel systems, and Advanced microphysiological system platforms for: Musculoskeletal regeneration and Anti-aging therapeutics. 
 
 
 # 🔥 News
